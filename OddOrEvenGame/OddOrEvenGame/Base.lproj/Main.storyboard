@@ -85,6 +85,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="resultLbl" destination="Ra1-zM-hkd" id="4Af-d9-mZu"/>
                         <outlet property="tempForTest" destination="n1U-aB-jdo" id="SMl-72-yxb"/>
                         <outlet property="userBallCountLbl" destination="e9v-F2-Buj" id="UxN-ay-so6"/>
                     </connections>
